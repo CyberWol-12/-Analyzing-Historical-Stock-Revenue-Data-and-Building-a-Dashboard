@@ -510,28 +510,29 @@ Possible improvements to this project include:
 
 ## Author
 
-**Divya Upadhyay**
+### Divya Upadhyay
 
-B.Tech Computer Science | Artificial Intelligence
+B.Tech Computer Science Engineering student specializing in Artificial Intelligence, with a strong interest in building practical, data-driven solutions.
 
-Interested in:
-
-- Data Science
+**Areas of Interest**
+- Data Science & Data Analytics
 - Machine Learning
-- Data Analytics
-- Python
-- SQL
+- Deep Learning
+- Natural Language Processing (NLP)
+- Recommendation Systems
 - Artificial Intelligence
+- Python & SQL
+- Data Visualization
+- Database Management
 
----
+**Technical Focus**
+Python • Pandas • NumPy • Scikit-learn • TensorFlow • NLP • SQL • SQLite • PostgreSQL • Machine Learning • Deep Learning
 
-## Connect With Me
+### Connect With Me
 
 - GitHub: [CyberWol-12](https://github.com/CyberWol-12)
 - LinkedIn: [Divya Upadhyay](https://www.linkedin.com/in/divya-upadhyay-a77060348)
-- Email: divyau0802@gmail.com
-
----
+- Email: [divyau0802@gmail.com](mailto:divyau0802@gmail.com)
 
 ## Conclusion
 
