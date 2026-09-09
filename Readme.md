@@ -193,7 +193,7 @@ The first rows of the historical Tesla stock dataset are inspected using:
 tesla_data.head()
 ```
 
-![Tesla Stock Dataset](screenshots/tesla-stock-data.png)
+![Tesla Stock Dataset](tesla-stock-data.png)
 
 ---
 
@@ -205,7 +205,7 @@ The scraped quarterly revenue dataset is inspected using:
 tesla_revenue.head()
 ```
 
-![Tesla Revenue Dataset](screenshots/tesla-revenue-data.png)
+![Tesla Revenue Dataset](tesla-revenue-data.png)
 
 ---
 
@@ -312,7 +312,7 @@ make_graph(
 )
 ```
 
-![Tesla Stock Price and Revenue Analysis](screenshots/tesla-stock-revenue-analysis.png)
+![Tesla Stock Price and Revenue Analysis](tesla-stock-revenue-analysis.png)
 
 ---
 
@@ -452,19 +452,16 @@ Compare Stock Price & Revenue
 
 ### Tesla Stock Data
 
-![Tesla Stock Data](screenshots/tesla-stock-data.png)
+![Tesla Stock Data](tesla-stock-data.png)
 
 ### Tesla Revenue Data
 
-![Tesla Revenue Data](screenshots/tesla-revenue-data.png)
+![Tesla Revenue Data](tesla-revenue-data.png)
 
-### Data Cleaning
-
-![Data Cleaning](screenshots/data-cleaning.png)
 
 ### Final Stock & Revenue Analysis
 
-![Final Stock Revenue Analysis](screenshots/tesla-stock-revenue-analysis.png)
+![Final Stock Revenue Analysis](tesla-stock-revenue-analysis.png)
 
 ---
 
